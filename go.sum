@@ -1,0 +1,5 @@
+github.com/esimov/colorquant v1.0.0 h1:Au0vgJi9uTftrZxoqKJXGO1im5pny79mJpVYPij3vp0=
+github.com/esimov/colorquant v1.0.0/go.mod h1:av7lYasj6eTILlP0s+rmU8POP1rsktNIBEIjjDd+wJk=
+golang.org/x/image v0.0.0-20201208152932-35266b937fa6 h1:nfeHNc1nAqecKCy2FCy4HY+soOOe5sDLJ/gZLbx6GYI=
+golang.org/x/image v0.0.0-20201208152932-35266b937fa6/go.mod h1:FeLwcggjj3mMvU+oOTbSwawSJRM1uh48EjtB4UJZlP0=
+golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
